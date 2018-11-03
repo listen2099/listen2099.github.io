@@ -3,6 +3,8 @@
 .sass-cache
 _site
 Gemfile.lock
+push
+update.sh
 
 Thumbs.db
 .DS_Store
